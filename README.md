@@ -33,5 +33,6 @@ Hello from /hello
 ## Using docker-compose
 
 docker-compose up
+docker-compose exec demo_nginx sh
 docker-compose stop
 docker-compose down
